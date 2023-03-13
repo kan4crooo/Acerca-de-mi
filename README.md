@@ -33,5 +33,6 @@ El Bootcamp de Hnery me ha permitido adquirir el conocimiento y experiencia fund
 No dudes en contactarme!
 
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
-https://www.linkedin.com/in/kevin-rojas-855a33195
+
+Linkedin: https://www.linkedin.com/in/kevin-rojas-855a33195
 
