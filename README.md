@@ -5,6 +5,7 @@
 Full Stack Developer especializado en Back-end. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS. Tengo experiencia en desarrollo de Front End y Back End, arquitectura de datos, Javascript, React, Redux, Node, Express, SQL, Frameworks, Librerias, Metodologias, Java, MongoDB, Api rest, Cloudinary. Con Iniciativa, Empatía, Versatilidad, Curiosidad, Perseverancia. Nivel de Inglés: B1.
 
 ¿Qué hago?
+
 En la actualidadd me dedico a realizar proyectos que me permiten enriquecer mas mi conocimiento como programador. Me fascina poder dar solucion a los problemas de la vida con código.
 
 ¿A dónde me dirijo?
